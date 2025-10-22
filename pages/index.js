@@ -1,5 +1,5 @@
 function Home() {
-    return <h1>Mensagem de correção de commit</h1>
+    return <h1>Eu amo a Maria</h1>
 }
 
 export default Home;
